@@ -3,4 +3,4 @@ streamlit
 sklearn
 requests
 pickle
-streamlit_lottie
+streamlit-lottie
